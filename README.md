@@ -44,7 +44,8 @@ Delivery timelines and warehouse data
 - Decision Support: Supports cost-saving decisions, space optimization, and better supply chain strategy.
 
   # Screenshots / Demos
-  Show what the dashboard looks like - ![Alt text] (https://github.com/Gulshan7549/inventory-supply-chain-analysis/blob/main/Inventory%20%26%20Supply%20Chain%20Analysis%20Deshbord.PNG)
+  Show what the dashboard looks like - ![Alt text](https://github.com/Gulshan7549/inventory-supply-chain-analysis/blob/main/Inventory%20%26%20Supply%20Chain%20Analysis%20Deshbord.PNG)
 Example : ![Deshbord Preview](https://github.com/Gulshan7549/inventory-supply-chain-analysis/blob/main/Inventory%20%26%20Supply%20Chain%20Analysis%20Deshbord.PNG)
+
 Contact & Contributions Have feedback or want to contribute? Feel free to open an issue or reach out at [gulshankumar_24iem04@dtu.ac.in].
 Would you like any modifications or additions?
